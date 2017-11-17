@@ -1,7 +1,3 @@
-This is the repository for my course, COURSENAME on LinkedIn Learning and Lynda.com.
-
-tutorial, training, linkedinlearning, lynda, lynda-com, rayvillalobos
-
 # COURSENAME
 This is the repository for my course COURSENAME. The full course is available on [LinkedIn Learning](LICOURSEURL?trk=insiders_6787408_learning) and [Lynda.com](LDCCOURSEURL)
 
