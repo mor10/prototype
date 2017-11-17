@@ -4,7 +4,7 @@ GitHub has many benefits when used in conjunction with our courses, including pr
 
 # What’s Changing?
 
-GitHub has historically been used by many Lynda.com/LinkedIn instructors through their personal GitHub accounts. However, we now have available a LinkedIn Learning organization account (https://github.com/LinkedInLearning) where instructors can post their course-related repositories. The organization account will allow us to present a consistent brand to the public, as well as maintain central control of all course-related repositories. As a general rule, all instructors, staff and non-staff, will be encouraged to use only the organization Github account in their courses.
+GitHub has historically been used by many Lynda.com/LinkedIn instructors through their personal GitHub accounts. However, we now have available a LinkedIn Learning [organization account](https://github.com/LinkedInLearning) where instructors can post their course-related repositories. The organization account will allow us to present a consistent brand to the public, as well as maintain central control of all course-related repositories. As a general rule, all instructors, staff and non-staff, will be encouraged to use only the organization Github account in their courses.
 
 # How Do I Participate?
 
