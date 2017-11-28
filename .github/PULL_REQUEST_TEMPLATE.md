@@ -1,7 +1,9 @@
 <!-- Thank you for submitting a pull request to these course assets. Please provide infromation about the changes: What issue they fix, how they solve the issue, and why the solution works. -->
 
 ## Description
-<!-- Please describe your pull request. Include the ticket number it is related to. -->
+<!-- Add the issue number this pull request addresses: -->
+Addresses issue #
+<!-- Please describe your pull request. -->
 
 ## List of changes
 <!-- Please describe what was changed/added. -->
