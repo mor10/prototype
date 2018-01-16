@@ -12,12 +12,13 @@ The Assets team will maintain the LinkedIn Learning Github account, including cr
 
 To initiate creation of a course repository on the LinkedIn Learning organization account, please send a request to ldc-prod-assets@linkedin.com and include the following information:
 
-1. Course name and ID
-2. Date repo required
-3. Preferred name of repo
-4. Instructor’s personal GitHub account name, so instructors can be invited as a collaborator.
-5. Producer’s personal GitHub account name.
-6. Accept the invite from the LinkedIn Learning organization, and begin posting to your repository. Make sure to create a README file, since Admins will not create any content in your new repo.
+1. Course Name:
+1. Course ID:
+1. Date repo required
+1. Preferred name of repo
+1. Instructor’s personal GitHub account name, so instructors can be invited as a collaborator.
+1. Producer’s personal GitHub account name.
+1. Accept the invite from the LinkedIn Learning organization, and begin posting to your repository. Make sure to create a README file, since Admins will not create any content in your new repo.
 
 Please note, that supplying files via GitHub is not a substitute for including the exercise files on LinkedIn Learning and Lynda.com.
 
@@ -40,7 +41,7 @@ This procedure should give you a branch structure where the master branch holds 
 1. Create branch for the current movie. Branch name will be in the format XX_YY format where XX is chapter number and YY is movie number, so chapter 2 movie 3 has the branch name 02_03.
 1. Checkout movie branch.
 1. Record movie as normal.
-1. If recording is successful and exercise files are complete, create new branch off the current movie branch with the name XX_YY_END.
+1. If recording is successful and exercise files are complete, create new branch off the current movie branch with the name XX_YY_e.
 1. Commit end state to the END branch.
 1. Checkout master branch.
 1. Merge XX_YY_END branch with master branch.
