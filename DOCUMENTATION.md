@@ -27,6 +27,8 @@ Please note, that supplying files via GitHub is not a substitute for including t
 For every course, follow the current production flow to ensure consistency and sanity of the course repository:
 
 ## Preparation
+0. **Producer + Instructor** Select the appropriate license for the project. The standard license for all LinkedIn Learning course assets is BSD 2 (see (https://github.com/LinkedInLearning/prototype/blob/master/LICENSE)[https://github.com/LinkedInLearning/prototype/blob/master/LICENSE]. If a (copyleft)[https://en.wikipedia.org/wiki/Copyleft] license such as GPL is required, consider split licensing: Copyleft for parts that require such licensing, BSD 2 for everything else.
+
 1. **Producer:** On repo creation, make sure all template assets are present and accounted for (eventually README.md template, ghpages, pull request template, etc).
 
 2. **Instructor:** Fork repo to personal GitHub account. Use personal fork for course development.
