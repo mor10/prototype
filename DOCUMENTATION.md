@@ -6,15 +6,13 @@ GitHub has many benefits when used in conjunction with our courses, including pr
 
 To initiate a course repository, send an email to `ldc-prod-assets@linkedin.com`. Include the following information:
 
----
-
-**Course Name:**
-**Course ID:**
-**Repo Name:**
-**Github Account Name:**
-**Producer GitHub Account Name:**
-
----
+```
+Course Name:
+Course ID:
+Repo Name:
+Github Account Name:
+Producer GitHub Account Name:
+```
 
 *Note:* The repo names should have an identifier, a short name (i.e. bootstrap4), a short identifier (i.e. esst for Essential Training) and the course id at the end. So a course for Bootstrap Essential Training with a course id of 123456 would have a name `bootstrap4-esst-123456`
 
