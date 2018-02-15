@@ -7,25 +7,29 @@ GitHub has many benefits when used in conjunction with our courses, including pr
 To initiate a course repository, send an email to `ldc-prod-assets@linkedin.com`. Include the following information:
 
 ---
-** Course Name:**
-** Course ID:**
-** Repo Name: **
-*Note:* The repo names should have an identifier, a short name (i.e. bootstrap4), a short identifier (i.e. esst for Essential Training) and the course id at the end. So a course for Bootstrap Essential Training with a course id of 123456 would have a name `bootstrap4-esst-123456`
+
+**Course Name:**
+**Course ID:**
+**Repo Name:**
 **Github Account Name:**
 **Producer GitHub Account Name:**
+
 ---
+
+*Note:* The repo names should have an identifier, a short name (i.e. bootstrap4), a short identifier (i.e. esst for Essential Training) and the course id at the end. So a course for Bootstrap Essential Training with a course id of 123456 would have a name `bootstrap4-esst-123456`
 
 Once the request is processed, you'll receive an invitation from the LinkedIn Learning organization. This repository will be an empty shell with only a basic README file.
 
 1. Fork the repository you were invited to
 1. Clone the forked repository to your hard drive
 1. Go to [this repository](https://github.com/planetoftheweb/prototype) to download the repository template
-1. Copy the files from the `prototype-master` folder into the cloned repository
-*Note:* You don't need to copy all of the files from the `prototype` repository, however you MUST copy at least these files:
-  1. LICENSE
-  1. NOTICE
-There are other template files that might be useful, so feel free to copy them if you need them for your project.
-*Note:* Copying files from the desktop will not copy invisible files like the `.gitignore` file, so you may need to create those yourself or copy them manually.
+1. Copy the files from the `prototype-master` folder into the cloned repository. You don't need to copy all of the files from the `prototype` repository, however you MUST copy at least these files:
+  - LICENSE
+  - NOTICE
+
+*Notes:* 
+- There are other template files that might be useful, so feel free to copy them if you need them for your project.
+- Copying files from the desktop will not copy invisible files like the `.gitignore` file, so you may need to create those yourself or copy them manually.
 
 # Production flow
 
