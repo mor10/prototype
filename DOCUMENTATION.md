@@ -2,32 +2,37 @@
 
 GitHub has many benefits when used in conjunction with our courses, including providing our members the ability to fork repositories as a starting point for their own projects, the opportunity to comment and leave feedback, and the chance to submit pull requests to report bugs or issues. In addition, instructors can promote and link to their courses through GitHub, interact with members, and enjoy a more streamlined exercise file workflow, where files are easier to update, and starting and ending states can be created more efficiently.   
 
-# What’s Changing?
-
-GitHub has historically been used by many Lynda.com/LinkedIn instructors through their personal GitHub accounts. However, we now have available a LinkedIn Learning [organization account](https://github.com/LinkedInLearning) where instructors can post their course-related repositories. The organization account will allow us to present a consistent brand to the public, as well as maintain central control of all course-related repositories. As a general rule, all instructors, staff and non-staff, will be encouraged to use only the organization Github account in their courses.
-
 # How Do I Participate?
 
-The Assets team will maintain the LinkedIn Learning Github account, including creating repositories, and inviting instructors, via their personal Github accounts, as outside collaborators. To ensure the process works efficiently, please use the instructions outlined here to participate in the LinkedIn Learning Github organization.
+To initiate a course repository, send an email to `ldc-prod-assets@linkedin.com`. Include the following information:
 
-To initiate creation of a course repository on the LinkedIn Learning organization account, please send a request to ldc-prod-assets@linkedin.com and include the following information:
+---
+** Course Name:**
+** Course ID:**
+** Repo Name: **
+*Note:* The repo names should have an identifier, a short name (i.e. bootstrap4), a short identifier (i.e. esst for Essential Training) and the course id at the end. So a course for Bootstrap Essential Training with a course id of 123456 would have a name `bootstrap4-esst-123456`
+**Github Account Name:**
+**Producer GitHub Account Name:**
+---
 
-1. Course Name:
-1. Course ID:
-1. Date repo required
-1. Preferred name of repo
-1. Instructor’s personal GitHub account name, so instructors can be invited as a collaborator.
-1. Producer’s personal GitHub account name.
-1. Accept the invite from the LinkedIn Learning organization, and begin posting to your repository. Make sure to create a README file, since Admins will not create any content in your new repo.
+Once the request is processed, you'll receive an invitation from the LinkedIn Learning organization. This repository will be an empty shell with only a basic README file.
 
-Please note, that supplying files via GitHub is not a substitute for including the exercise files on LinkedIn Learning and Lynda.com.
+1. Fork the repository you were invited to
+1. Clone the forked repository to your hard drive
+1. Go to [this repository](https://github.com/planetoftheweb/prototype) to download the repository template
+1. Copy the files from the `prototype-master` folder into the cloned repository
+*Note:* You don't need to copy all of the files from the `prototype` repository, however you MUST copy at least these files:
+  1. LICENSE
+  1. NOTICE
+There are other template files that might be useful, so feel free to copy them if you need them for your project.
+*Note:* Copying files from the desktop will not copy invisible files like the `.gitignore` file, so you may need to create those yourself or copy them manually.
 
 # Production flow
 
 For every course, follow the current production flow to ensure consistency and sanity of the course repository:
 
 ## Preparation
-0. **Producer + Instructor** Select the appropriate license for the project. The standard license for all LinkedIn Learning course assets is BSD 2 (see [LICENSE](https://github.com/LinkedInLearning/prototype/blob/master/LICENSE). If a [copyleft](https://en.wikipedia.org/wiki/Copyleft) license such as GPL is required, consider split licensing: Copyleft for parts that require such licensing, BSD 2 for everything else.
+0. **Producer/Instructor** Select the appropriate license for the project. The standard license for all LinkedIn Learning course assets is BSD 2 (see [LICENSE](https://github.com/LinkedInLearning/prototype/blob/master/LICENSE). If a [copyleft](https://en.wikipedia.org/wiki/Copyleft) license such as GPL is required, consider split licensing: Copyleft for parts that require such licensing, BSD 2 for everything else.
 
 1. **Producer:** On repo creation, make sure all template assets are present and accounted for (eventually README.md template, ghpages, pull request template, etc).
 
