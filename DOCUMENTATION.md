@@ -70,25 +70,23 @@ This procedure should give you a branch structure where the master branch holds 
 
 1. Return to step 3 for the next movie.
 
+1.  `git push --all`
+  Push the finished branches to repo
+
 ## Record complete (instructor)
 
-1. `git push origin --all` 
+1. `git remote add upstream https://github.com/LinkedInLearning/YOURREPO`
+Set up an upstream branch to the original repo
+
+1. `git push upstream --all`
 Makes sure finished branches are pushed to personal GitHub repo. You may do this sequentially as you work through each video `git push origin 02_01`, etc. 
-
-1. Create and submit pull request (follow pull request template) to the Organization repo.
-
-1. Change context to the Organization and accept your own pull request to take the exercise files live.
-
-1. Inform producer that exercise files have been added to the Organization repo.
 
 ## Record complete (producer)
 1. Verify integrity and completeness of files in Organization repo, including all branches.
 
 1. Verify information in README.md.
 
-1. Communicate any necessary changes to instructor for updates or make basic updates (README.md typos etc) directly in the repo.
-
-1. Download zip of repo (all branches) to be compiled for product course page.
+1. Communicate any necessary changes to instructor for updates or make basic updates (README.md typos etc) directly in the repo. These may be edited directly in the repo as a pull request.
 
 ## Small update procedure (instructor)
 
