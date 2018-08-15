@@ -79,7 +79,7 @@ This procedure should give you a branch structure where the master branch holds 
 Set up an upstream branch to the original repo
 
 1. `git push upstream --all`
-Makes sure finished branches are pushed to personal GitHub repo. You may do this sequentially as you work through each video `git push origin 02_01`, etc. 
+Makes sure finished branches are pushed to personal GitHub repo. You may do this sequentially as you work through each video `git push upstream 02_01`, etc. 
 
 ## Record complete (producer)
 1. Verify integrity and completeness of files in Organization repo, including all branches.
