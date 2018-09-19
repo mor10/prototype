@@ -1,0 +1,13 @@
+# CODEOWNERS file for the repo.
+# Link: https://help.github.com/articles/about-codeowners/
+
+# This is a comment, marked by a hash symbol as the first symbol on the line.
+# Each line is a file pattern followed by one or more owners.
+
+# Producer:
+# Uncomment line below and add producer GitHub handle
+# * @producerhandle
+
+# Instructor:
+# Uncomment line below and add instructor GitHub handle
+# * @instructorhandle
