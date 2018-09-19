@@ -12,9 +12,12 @@ Course ID:
 Repo Name:
 Github Account Name:
 Producer GitHub Account Name:
+Instructor GitHub Account Name:
 ```
 
 *Note:* The repo names should have an identifier, a short name (i.e. bootstrap4), a short identifier (i.e. esst for Essential Training) and the course id at the end. So a course for Bootstrap Essential Training with a course id of 123456 would have a name `bootstrap4-esst-123456`
+
+Producer(s) and instructor(s) will be added as CODEOWNERS to the repo in the `./.github/CODEOWNERS` file.
 
 Once the request is processed, you'll receive an invitation from the LinkedIn Learning organization. This repository will be an empty shell with only a basic README file.
 
